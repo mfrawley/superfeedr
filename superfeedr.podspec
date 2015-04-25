@@ -10,9 +10,9 @@
 Pod::Spec.new do |s|
   s.name             = "superfeedr"
   s.version          = "0.1.0"
-  s.summary          = "A short description of superfeedr."
+  s.summary          = "superfeedr iOS client"
   s.description      = <<-DESC
-                      Api client for superfeedr 
+                      Api client for superfeedr with example app 
                        DESC
   s.homepage         = "https://github.com/mfrawley/superfeedr"
   s.license          = 'MIT'
