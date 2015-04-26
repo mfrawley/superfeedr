@@ -14,13 +14,6 @@ public class SFSubscribe {
 //    var password = "39effe1e43ae713249461eb73c0bedcb"
     var configData : SFConfigData;
     
-    enum SubscribeMode : String  {
-        case List        = "list"
-        case Subscribe   = "subscribe"
-        case Unsubscribe = "unsubsribe"
-        case Retrieve    = "retrieve"
-    }
-    
     public init(data : SFConfigData) {
         self.configData = data;
     }
