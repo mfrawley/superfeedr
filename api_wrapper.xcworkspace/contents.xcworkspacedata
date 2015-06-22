@@ -4,7 +4,4 @@
    <FileRef
       location = "group:api_wrapper.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:Pods/Pods.xcodeproj">
-   </FileRef>
 </Workspace>

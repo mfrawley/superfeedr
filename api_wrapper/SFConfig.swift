@@ -11,7 +11,7 @@ import UIKit
 public struct SFConfigData {
     var username : String;
     var password : String;
-    var baseUrl  : String = "http://push.superfeedr.com/";
+    var baseUrl  : String = "https://push.superfeedr.com/";
     
     public init() {
         username = "mfrawley"
